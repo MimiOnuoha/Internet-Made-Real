@@ -43,26 +43,26 @@ I can be reached via email at all times, but I am very slow to respond to emails
 ## Syllabus
 
 **Week One: October 24**    
-*The Internet: History and Origins.* 
+*The Internet: History and Origins*
 
 [Introductions to course, logistics, and each other] 
 
 **Week Two: October 31**  
-*Net infrastructure and traces*  
+*Net Infrastructure and Traces*  
 
 **Week Three: November 7**      
 *HTTP + protocols and the web*
 
 **Week Four: November 14**  
-*Plan day - no class *
+*Plan day - no class*
 
 **Week Five: November 28**  
 
 *The web outside of the West*
 
-**Week Six: December 5** **  
+**Week Six: December 5**  
 *Alternatives, futures, and uses* 
 
-**Week Seven: December 12** **    
+**Week Seven: December 12**    
 *In class paper/final project presentations*
 
