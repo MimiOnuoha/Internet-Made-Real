@@ -7,6 +7,8 @@
 **Course Number:** APA 2215  
 **Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)  
 
+Turn in homework [**HERE**](https://docs.google.com/forms/d/e/1FAIpQLSfzNWryeFjVF8ISBXLUd5Xg0Tlc7LFdcAxi43OjJTNV8sy_7A/viewform?usp=sf_link).
+
 ## Course Description
 
 The Internet as we know it today is the mediating point for a multitude of ways that we visually communicate with one another. It is also a massive network of networks that was initially funded by the military, built atop older forms of communication, and owes its origins to sources whose traces have been virtually erased from modern experiences of it. 
@@ -54,8 +56,9 @@ I can be reached via email at all times, but I am very slow to respond to emails
   - [The Living Internet](https://www.livinginternet.com/i/ii_summary.htm) (One page summary of internet history)
   - [Packet Switching Definition](http://www.linfo.org/packet_switching.html) 
   - [The Internet: changing the way we communicate](https://web.archive.org/web/20060702010235/http://www.nsf.gov:80/about/history/nsf0050/pdf/internet.pdf) (2006 document by the National Science Foundation)
+- Write a 200-300 word response to any of the concepts that you read about or that we talked about in class. How is your understanding of the Internet different than before we walked in? What aspects are you still confused about? What do you want to know more about? What things do you feel like you know better? Use the homework form (see top of syllabus) to turn in your response. 
 
-Note: if you liked the clip we watched in class, see the rest of the documentary [here](https://www.dropbox.com/s/6sk77shbw2zdm9b/lo_and_behold.mp4?dl=0). 
+Note: if you liked the clip we watched in class, find the rest of the documentary [here](https://www.dropbox.com/s/6sk77shbw2zdm9b/lo_and_behold.mp4?dl=0). 
 
 **Week Two: October 31**  
 *Net Infrastructure and Traces*  
