@@ -3,8 +3,8 @@
 **Instructor:** Mimi Onuoha  
 **Contact:** mimionuoha@bennington.edu  
 **Term:** Fall 2017  
-**Time:** Tuesdays, 8am - 11:40am   
-**Course Number:** TBD [Media Studies]   
+**Time:** Tuesdays, 8am - 11:40am, EAC 1 and 2   
+**Course Number:** APA 2215  
 **Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)  
 
 ## Course Description
@@ -24,21 +24,21 @@ This two credit, seven-week course takes off from the starting place of "Media A
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
 
-All students are allowed one absence as a maximum. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
+All students are allowed one absence as a maximum. It is very much to your advantage to not miss any classes, if possible. 
 
 ## Evaluation
 
 Final evaluation will be based on class participation, the completion of all assignments, quality of work, and attendance. 
 
-For the final project/paper, I am interestedin your ability to engage deeply with the content we have discussed, synthesize material that we have discussed in class, and propose interesting and original ideas and extensions of the topics. 
+For the final project/paper, I am interested in your ability to engage deeply with the content we have discussed, synthesize material that we have discussed in class, and propose interesting and original ideas and extensions of the topics. 
 
 ## Format
 
-The majority of assignments for this course will be readings (good ones!) and films/videos. During class we will have a number of discussions, as well as exercises that will allow us to interface with the material in ways beyond just conversation. 
+The majority of assignments for this course will consist of readings (good ones!), videos, and various thought exercises. During class we will have a number of discussions, as well as activities that will allow us to interface with the material in ways beyond just conversation. 
 
 There is no need to purchase a book, as all readings will be made available to you. 
 
-I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner. 
+I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I usually reserve 24 hours to respond, but nearly always reply much sooner. 
 
 ## Syllabus
 
@@ -47,11 +47,21 @@ I can be reached via email at all times, but I am very slow to respond to emails
 
 [Introductions to course, logistics, and each other] 
 
+*Assignment:*  
+
+- Read the following (short) pieces:
+  - Neil Postman - [Five Things We Need to Know About Technological Change](http://worrydream.com/refs/Postman%20-%20Five%20Things%20We%20Need%20to%20Know%20About%20Technological%20Change.pdf) 
+  - [The Living Internet](https://www.livinginternet.com/i/ii_summary.htm) (One page summary of internet history)
+  - [Packet Switching Definition](http://www.linfo.org/packet_switching.html) 
+  - [The Internet: changing the way we communicate](https://web.archive.org/web/20060702010235/http://www.nsf.gov:80/about/history/nsf0050/pdf/internet.pdf) (2006 document by the National Science Foundation)
+
+Note: if you liked the clip we watched in class, see the rest of the documentary [here](https://www.dropbox.com/s/6sk77shbw2zdm9b/lo_and_behold.mp4?dl=0). 
+
 **Week Two: October 31**  
 *Net Infrastructure and Traces*  
 
-**Week Three: November 7**      
-*HTTP + protocols and the web*
+**Week Three: November 7***      
+*DNS + TLDs + protocols + the web*
 
 **Week Four: November 14**  
 *Plan day - no class*
@@ -66,3 +76,6 @@ I can be reached via email at all times, but I am very slow to respond to emails
 **Week Seven: December 12**    
 *In class paper/final project presentations*
 
+
+
+**Report to class for assignment.* 
