@@ -52,7 +52,7 @@ I can be reached via email at all times, but I am very slow to respond to emails
 *Assignment:*  
 
 - Read the following (short) pieces:
-  - Neil Postman - [Five Things We Need to Know About Technological Change](http://worrydream.com/refs/Postman%20-%20Five%20Things%20We%20Need%20to%20Know%20About%20Technological%20Change.pdf) 
+  - Neil Postman - [Five Things We Need to Know About Technological Change](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf)
   - [The Living Internet](https://www.livinginternet.com/i/ii_summary.htm) (One page summary of internet history)
   - [Packet Switching Definition](http://www.linfo.org/packet_switching.html) 
   - [The Internet: changing the way we communicate](https://web.archive.org/web/20060702010235/http://www.nsf.gov:80/about/history/nsf0050/pdf/internet.pdf) (2006 document by the National Science Foundation)
