@@ -63,8 +63,18 @@ Note: if you liked the clip we watched in class, find the rest of the documentar
 **Week Two: October 31**  
 *Net Infrastructure and Traces*  
 
+*Assignment:*  
+
+- Read the following:
+  - Julian Oliver - [Stealth Infrastructure](http://rhizome.org/editorial/2014/may/20/stealth-infrastructure/)  
+  - To prepare yourself for next week: [how DNS works](https://howdns.works/) 
+  - And if you have time: check out Google's [wifi balloon project](https://x.company/loon/) (There's not Google branding on this, but rest assured that it's essentially a Google initiative)
+- In class this week, we talked about the physical internet, and the objects and infrastructure that make it up. For your assignment, you must find a way to show the Bennington community what some aspect of the physical internet at Bennington looks like. You can create a diagram, write a document, make a map, stage a brief intervention, or whatever else you want. Whatever you do, make sure that you document it and send me a link that also includes why you decided to do this.
+
+And this is *not* homework, but if you are bored and looking for something to watch this week, may I suggest Anil Dash's 2016 Eyeo talk, titled  [I Am Transformed](https://vimeo.com/175846582). 
+
 **Week Three: November 7***      
-*DNS + TLDs + protocols + the web*
+*DNS + TLDs*
 
 **Week Four: November 14**  
 *Plan day - no class*
