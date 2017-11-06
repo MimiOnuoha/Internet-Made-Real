@@ -79,10 +79,28 @@ And this is *not* homework, but if you are bored and looking for something to wa
 **Week Three: November 7***      
 *DNS + TLDs*
 
+In lieu of class this week, I want you to focus on being conceptually prepared for the discussions we'll have the  next time we meet—we'll shift from talking about how the internet technically works to how it's run, and what that means. More specifically: we'll talk about top level domains and the politics of governance and ruling bodies in relation to the internet. We'll also begin to question whether the internet is as decentralized as it was initially designed to be. 
+
+*Assignment:*
+
+Here are the following things that you'll need to read/view:
+
+- Check out all of the possible domains [here](https://www.iana.org/domains/root/db) (there are some weird ones...)
+- Read Peter Yu's [The Neverending CCTLD Story](http://home.uchicago.edu/mferzige/ccTLDs.pdf) 
+- Read about [Algorithmic Citizenship](http://citizen-ex.com/citizenship) 
+- Watch *[From yu to me](https://vimeo.com/95833310)*, which details how the specifics of one country's internet TLD 
+  - Send me a 300-500 word response on any of these three things. Do you buy the concept of algorithmic citizenship? 
+
+When we next meet, we'll also talk about your homework assignment from last week. Looking forward! 
+
 **Week Four: November 14**  
 *Plan day - no class*
 
-**Week Five: November 28**  
+**Week Five: November 21**  
+
+*Governance of the web*
+
+**Week Five: November 28 ** 
 
 *The web outside of the West*
 
