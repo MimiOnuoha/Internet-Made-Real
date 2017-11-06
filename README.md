@@ -89,7 +89,7 @@ Here are the following things that you'll need to read/view:
 - Read Peter Yu's [The Neverending CCTLD Story](http://home.uchicago.edu/mferzige/ccTLDs.pdf) 
 - Read about [Algorithmic Citizenship](http://citizen-ex.com/citizenship) 
 - Watch *[From yu to me](https://vimeo.com/95833310)*, which details how the specifics of one country's internet TLD 
-  - Send me a 300-500 word response on any of these three things. Do you buy the concept of algorithmic citizenship? 
+  - Send me a 300-500 word response on any of these three things. Do you buy the concept of algorithmic citizenship? What stands out to you about it? What are your thoughts on the power structures that TLDs mask? 
 
 When we next meet, we'll also talk about your homework assignment from last week. Looking forward! 
 
