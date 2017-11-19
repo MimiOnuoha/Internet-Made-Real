@@ -93,12 +93,9 @@ Here are the following things that you'll need to read/view:
 
 When we next meet, we'll also talk about your homework assignment from last week. Looking forward! 
 
-**Week Four: November 14**  
-*Plan day - no class*
+**Week Four: November 21**  
 
-**Week Five: November 21**  
-
-*Governance of the web*
+*DNS + TLDs + Algorithmic Citizenship*
 
 **Week Five: November 28 ** 
 
