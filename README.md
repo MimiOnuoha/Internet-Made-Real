@@ -95,11 +95,11 @@ When we next meet, we'll also talk about your homework assignment from last week
 
 **Week Four: November 21**  
 
-*DNS + TLDs + Algorithmic Citizenship*
+*IP Addresses, DNS,  Algorithmic Citizenship*
 
 **Week Five: November 28 ** 
 
-*The web outside of the West*
+*The state of the Internet today*
 
 **Week Six: December 5**  
 *Alternatives, futures, and uses* 
