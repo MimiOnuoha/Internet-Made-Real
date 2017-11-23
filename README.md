@@ -97,12 +97,25 @@ When we next meet, we'll also talk about your homework assignment from last week
 
 *IP Addresses, DNS,  Algorithmic Citizenship*
 
+*Assignment*:
+
+- Read all of the sections of [Mozilla's Internet Health Report](https://internethealthreport.org/v01/).
+- Read *[Defining the Web](http://www.nyu.edu/projects/nissenbaum/papers/Defining%20the%20Web.pdf)* (Nissenbaum and Introna, 2000 )
+  - Write a response to either the Mozilla article or the Nissenbaum/Introna article. Send it using the homework form (see above for link)
+    - If you're responding to the Mozilla piece: make sure to address the following in addition to your thoughts: do you agree with the premise of a "healthy" internet? Should Mozilla to be leading such a discussion? Which of thse stood out to you the most, and why? 
+    - If responding to *Defining the Web*, be sure to address the following in addition to your thoughts: note that this article is 17 years old (!). It describes a specific moment in the formation of the web. Do the points and critiques that the authors are making hold up today? Is search as political a concept today as they think it is? 
+- Bring to class the things you made about the Internet as part of your week 2 assignment.
+
 **Week Five: November 28 ** 
 
 *The state of the Internet today*
 
+We will talk in class today about the final project/paper. 
+
 **Week Six: December 5**  
 *Alternatives, futures, and uses* 
+
+(Bring in your laptop to class today!)
 
 **Week Seven: December 12**    
 *In class paper/final project presentations*
