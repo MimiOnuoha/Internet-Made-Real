@@ -99,7 +99,7 @@ When we next meet, we'll also talk about your homework assignment from last week
 
 *Assignment*:
 
-- Read all of the sections of [Mozilla's Internet Health Report](https://internethealthreport.org/v01/).
+- Read the sections of [Mozilla's Internet Health Report](https://internethealthreport.org/v01/about/) (the parts at the top titled "Intro", "Open Innovation", "Digital Inclusion", and so on. You don't have to read the extra stories or look at the data visualizations, but you are more than welcome to.)
 - Read *[Defining the Web](http://www.nyu.edu/projects/nissenbaum/papers/Defining%20the%20Web.pdf)* (Nissenbaum and Introna, 2000 )
   - Write a response to either the Mozilla article or the Nissenbaum/Introna article. Send it using the homework form (see above for link)
     - If you're responding to the Mozilla piece: make sure to address the following in addition to your thoughts: do you agree with the premise of a "healthy" internet? Should Mozilla to be leading such a discussion? Which of thse stood out to you the most, and why? 
