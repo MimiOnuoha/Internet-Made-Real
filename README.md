@@ -106,7 +106,7 @@ When we next meet, we'll also talk about your homework assignment from last week
     - If responding to *Defining the Web*, be sure to address the following in addition to your thoughts: note that this article is 17 years old (!). It describes a specific moment in the formation of the web. Do the points and critiques that the authors are making hold up today? Is search as political a concept today as they think it is? 
 - Bring to class the things you made about the Internet as part of your week 2 assignment.
 
-**Week Five: November 28 ** 
+**Week Five: November 28** 
 
 *The state of the Internet today*
 
