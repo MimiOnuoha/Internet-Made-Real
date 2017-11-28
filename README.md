@@ -114,6 +114,13 @@ When we next meet, we'll also talk about your homework assignment from last week
 
 We will talk in class today about the final project/paper. 
 
+*Assignment*:
+
+- Read [To Save Net Neutrality, We Must Build Our Own Internet](https://motherboard.vice.com/en_us/article/7x4y8a/net-neutrality-fcc-community-networks)
+- Read [DDoS attack that disrupted internet was largest of its kind](https://www.theguardian.com/technology/2016/oct/26/ddos-attack-dyn-mirai-botnet)
+- Come up with the topic for your final paper! Use the homework form to submit it. 
+- If you haven't turned in all of your assignments, send them in using the homework form. 
+
 **Week Six: December 5**  
 *Alternatives, futures, and uses* 
 
