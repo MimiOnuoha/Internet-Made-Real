@@ -97,6 +97,8 @@ When we next meet, we'll also talk about your homework assignment from last week
 
 *IP Addresses, DNS,  Algorithmic Citizenship*
 
+[Costs of different domains](https://inbox.google.com/u/0/). 
+
 *Assignment*:
 
 - Read the sections of [Mozilla's Internet Health Report](https://internethealthreport.org/v01/about/) (the parts at the top titled "Intro", "Open Innovation", "Digital Inclusion", and so on. You don't have to read the extra stories or look at the data visualizations, but you are more than welcome to.)
