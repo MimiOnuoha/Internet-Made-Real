@@ -15,9 +15,4 @@ Here are some examples of prompts (you are more than welcome to use any of these
 - What does it take to lay new internet cables (fiber-optic or copper), and who operates these services? Why are certain countries less connected than others? Are there realistic ways that more countries can be better connected in the future or are there more powerful gains to being partly off the grid? 
 
 
-
-
-
-
-
-=
+For citations, note that while Chicago style is preferred, any format (MLA, APA, etc) may be used as long as you are consistent. 
